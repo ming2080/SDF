@@ -1,0 +1,6 @@
+{
+  "name": "南平庭春鹿业大数据云协同管控平台",
+  "description": "基于端-边-云架构的南平庭春鹿业生态养殖综合管控平台，严格按照功能清单实现智能环境监测、鹿群个体精准识别、疾病早期预警及智能决策分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
